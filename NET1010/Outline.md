@@ -1,5 +1,6 @@
 ---
 title: NET 1010 Outline
+layout: post
 ---
 
 v2
