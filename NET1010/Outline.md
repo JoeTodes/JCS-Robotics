@@ -17,6 +17,7 @@ title: NET 1010 Outline
   * only 2 possible numerals
   * place values - powers of 2 (1,2,4,8,16,32,64...)
   * adding (and all other math) still works in the same way
+
 ## Logic Gates
 * electrical circuit with inputs and an output
 * the state of the output depends on the states of the inputs
@@ -39,6 +40,7 @@ title: NET 1010 Outline
   * OR Circuit
 * NAND, NOR, XOR, XNOR
   * Description and truth tables
+
 ## ICs
   * By combining logic gates in interesting ways, you can achieve complex systems, from the examples we're about to make, all the way up to the Central Processing Unit (CPU) in your computers and phones
   * NAND Oscillator
@@ -59,6 +61,7 @@ title: NET 1010 Outline
      * For more bits (digits), just need one Adder circuit per bit, plus some way to handle the "carry-over" 
      * Called "Half Adder" because it can't handle a carry-over from a previous bit.
      * A Full Adder made with NAND gates requires 9 NAND gates per bit
+  
 ## More Fun with ICs
 * 555
   * ubiquitous and multifunction

@@ -1,6 +1,7 @@
 ---
 title: ELT 1010 Outline
 ---
+
 # Outcomes
 
 1. Health and Safety Plan
@@ -22,6 +23,7 @@ title: ELT 1010 Outline
   * Increase resistance
   * Measure V and I
   * Ohm's Law
+
 ## Kirchoff's Voltage Law
   * Series resistors (equal)
   * Measure I, calculate total Ohms
@@ -32,6 +34,7 @@ title: ELT 1010 Outline
   * Measure V drops, calculate I based on R1 and V1
   * Increase resistor, redo (LED Forward Voltage)
   * LED Max I, current limiting resistor
+
 ## Kirchoff's Current Law
   * Parallel resistors and LEDs (equal)
   * Measure V drop across each resistor (reaffirm KVL)
@@ -43,11 +46,13 @@ title: ELT 1010 Outline
   * No change to other branch (KVL)
   * Calculate and verify new I in changed branch
   * Calculate and Verify total I
+
 ## Potentiometers
   * Inside view
   * Schematic Symbol and breadboard use
   * Simple LED dimmer
     * why the other resistor?
+  
 ## Switches
   * Simple switch circuit (Schematic Symbol and breadboard connection)
     * Tac Switch (off-(on))
@@ -55,20 +60,24 @@ title: ELT 1010 Outline
   * Parallel circuit
     * Switch before/after branch
     * Switch on one branch
+
 ## Capacitors
   * Simple LED Fade circuit (Schematic Symbol and polarity)
   * Other uses
     * Filter power supply variance
     * AC-DC conversion
+  
 ## Transistors
   * electrical switch
   * 2222 (NPN transistor Schematic Symbol and pinout)
   * only lets current flow from Collector to Emitter if Base is higher voltage than Emitter
   * Need resistor into Base to limit current
   * Potentiometer Controlled Transistor Circuit
+
 ## Soldering
   * How to and what is good
   * Practice on soldering kits
+
 ## Digital Logic Probe Project
   * What is a DLP?
   * Digital Logic Probe Circuit and explanation
