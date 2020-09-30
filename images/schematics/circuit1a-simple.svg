@@ -1,0 +1,104 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="285"
+     height="151">
+    <defs/>
+    <g transform=" scale(1) translate(-555.5,-485)">
+        <rect x="619" y="519" width="2" height="2" fill="#000000" stroke="none"
+              pointer-events="none"/>
+        <rect x="619" y="589" width="2" height="2" fill="#000000" stroke="none"
+              pointer-events="none"/>
+        <ellipse cx="620" cy="554.99" rx="24.994505" ry="24.994505"
+                 fill="#ffffff" stroke="#000000" stroke-width="2"
+                 pointer-events="none"/>
+        <path d="M 602 552.53 C 638 552.53 638 552.53 638 552.53" fill="none"
+              stroke="#000000" stroke-width="2" stroke-linecap="round"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 611 560 C 629 560 629 560 629 560" fill="none"
+              stroke="#000000" stroke-width="2" stroke-linecap="round"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 620 521 L 620 551" fill="none" stroke="#000000"
+              stroke-width="2" stroke-linecap="square" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 620 561 L 620 589" fill="none" stroke="#000000"
+              stroke-width="2" stroke-linecap="square" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 605 543.25 C 615 543.25 615 543.25 615 543.25" fill="none"
+              stroke="#000000" stroke-width="1.5" stroke-linecap="round"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 610 538.25 C 610 548.25 610 548.25 610 548.25" fill="none"
+              stroke="#000000" stroke-width="1.5" stroke-linecap="round"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="779" y="519" width="2" height="2" fill="#000000" stroke="none"
+              pointer-events="none"/>
+        <rect x="779" y="579" width="2" height="2" fill="#000000" stroke="none"
+              pointer-events="none"/>
+        <path d="M 780 532 L 787 535 L 780 538" fill="none" stroke="#000000"
+              stroke-width="2" stroke-linejoin="round" stroke-linecap="round"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 780 538 L 773 541 L 780 544" fill="none" stroke="#000000"
+              stroke-width="2" stroke-linejoin="round" stroke-linecap="round"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 780 544 L 787 547 L 780 550" fill="none" stroke="#000000"
+              stroke-width="2" stroke-linejoin="round" stroke-linecap="round"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 780 550 L 773 553 L 780 556" fill="none" stroke="#000000"
+              stroke-width="2" stroke-linejoin="round" stroke-linecap="round"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 780 556 L 787 559 L 780 562" fill="none" stroke="#000000"
+              stroke-width="2" stroke-linejoin="round" stroke-linecap="round"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 780 562 L 773 565 L 780 568" fill="none" stroke="#000000"
+              stroke-width="2" stroke-linejoin="round" stroke-linecap="round"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 780 521 L 780 531" fill="#000000" stroke="#000000"
+              stroke-width="2" stroke-linecap="square" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 780 569 L 780 579" fill="#000000" stroke="#000000"
+              stroke-width="2" stroke-linecap="square" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <rect x="800" y="550" width="27" height="13" fill-opacity="0"
+              fill="#dae2f2" stroke="none" pointer-events="none"/>
+        <g fill="#000000" font-family="Arial,Helvetica" font-weight="bold"
+           text-anchor="middle" font-size="18px">
+            <text x="813.5" y="564.5">
+                220Ω
+            </text>
+        </g>
+        <rect x="800" y="530" width="17" height="13" fill-opacity="0"
+              fill="#dae2f2" stroke="none" pointer-events="none"/>
+        <g fill="#000000" font-family="Arial,Helvetica" font-weight="bold"
+           text-anchor="middle" font-size="18px">
+            <text x="808.5" y="544.5">
+                R1
+            </text>
+        </g>
+        <path d="M 620 590 L 620 630 L 780 630 L 780 580" fill="none"
+              stroke="#000000" stroke-width="2" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <rect x="560" y="530" width="45" height="40" fill="transparent"
+              stroke="transparent" pointer-events="none"/>
+        <g>
+            <foreignObject style="overflow: visible; text-align: left;"
+                           pointer-events="none" width="100%" height="100%">
+                <div xmlns="http://www.w3.org/1999/xhtml"
+                     style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 43px; height: 1px; padding-top: 537px; margin-left: 562px;">
+                    <div style="box-sizing: border-box; font-size: 0; text-align: left; max-height: 31px; overflow: hidden; ">
+                        <div style="display: inline-block; font-size: 12px; font-family: Arial,Helvetica; color: #000; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+                            <p style="margin: 0px">
+                                <span style="font-size: 24px">
+                                    <b>
+                                        5V
+                                    </b>
+                                </span>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+        <path d="M 620 520 L 620 490 L 780 490 L 780 520" fill="none"
+              stroke="#000000" stroke-width="2" stroke-miterlimit="10"
+              pointer-events="none"/>
+    </g>
+</svg>
