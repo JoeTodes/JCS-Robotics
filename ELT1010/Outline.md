@@ -1,5 +1,6 @@
 ---
 title: ELT 1010 Outline
+layout: post
 ---
 
 # ELT 1010 Outcomes
