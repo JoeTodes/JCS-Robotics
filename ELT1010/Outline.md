@@ -2,7 +2,7 @@
 title: ELT 1010 Outline
 ---
 
-# Outcomes
+# ELT 1010 Outcomes
 
 1. Health and Safety Plan
 2. Reading Schematics / Identifying Components

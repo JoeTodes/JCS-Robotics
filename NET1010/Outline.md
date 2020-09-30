@@ -2,14 +2,16 @@
 title: NET 1010 Outline
 ---
 
-# Outcomes
+v2
+
+## NET 1010 Outcomes
 1. Describe Binary Number System and Logic Gates
 2. Construct and Verify Basic Logic Gates
 3. Construct a Simple Logic Circuit
 4. Identify Pinouts and Use Various ICs
 
-# Topics
-## Binary Number System
+## Topics
+### Binary Number System
 * why do we use base 10?
 * place value - powers of 10
 * how adding works - reset to 0 and carry-over
@@ -18,7 +20,7 @@ title: NET 1010 Outline
   * place values - powers of 2 (1,2,4,8,16,32,64...)
   * adding (and all other math) still works in the same way
 
-## Logic Gates
+### Logic Gates
 * electrical circuit with inputs and an output
 * the state of the output depends on the states of the inputs
 * Logic gate circuits can be constructed using transitors, as we'll see
@@ -41,7 +43,7 @@ title: NET 1010 Outline
 * NAND, NOR, XOR, XNOR
   * Description and truth tables
 
-## ICs
+### ICs
   * By combining logic gates in interesting ways, you can achieve complex systems, from the examples we're about to make, all the way up to the Central Processing Unit (CPU) in your computers and phones
   * NAND Oscillator
     * Use of an oscillator
@@ -62,7 +64,7 @@ title: NET 1010 Outline
      * Called "Half Adder" because it can't handle a carry-over from a previous bit.
      * A Full Adder made with NAND gates requires 9 NAND gates per bit
   
-## More Fun with ICs
+### More Fun with ICs
 * 555
   * ubiquitous and multifunction
   * let's use it to make another oscillator
@@ -72,7 +74,7 @@ title: NET 1010 Outline
   * Quick description
   * Where to find pinout
 
-## Final Project
+### Final Project
    * Voltage Regulator Circuit
    * Make something cool using everything we've learned
    * Verify that it works on the breadboard
@@ -84,7 +86,7 @@ title: NET 1010 Outline
      * Battery mounting
      * Drawing sheets for Approval
 
-# Circuits to Diagram
+## Circuits to Diagram
 1. NOT Gate
 2. AND Gate
 3. OR Gate
@@ -93,7 +95,7 @@ title: NET 1010 Outline
 6. 555 Oscillator Circuit
 7. Voltage Regulator Circuit
 
-# Evidence of Learning
+## Evidence of Learning
 * Completed binary and truth tables worksheet (O1)
 * NOT, AND, and OR circuits breadboarded (O2)
 * NAND Oscillator and NAND Half Adder Circuits breadboarded (O3)
