@@ -1,3 +1,6 @@
+---
+title: ELT 1010 Outline
+---
 # Outcomes
 
 1. Health and Safety Plan

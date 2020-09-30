@@ -1,3 +1,7 @@
+---
+title: NET 1010 Outline
+---
+
 # Outcomes
 1. Describe Binary Number System and Logic Gates
 2. Construct and Verify Basic Logic Gates
