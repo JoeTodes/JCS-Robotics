@@ -62,4 +62,4 @@ Now, it should be said that the above description of voltage is a gross oversimp
 
 Ok that's enough theory for now, in the next lesson we'll be breaking into your electronics kit and eventually building some circuits, so make sure you've got that handy, along with your **Electronics Components Worksheet**.
 
-[NEXT LESSON](ELT1010%20Guide%20Book%20Lesson%202.md)
+[NEXT LESSON](./ELT1010%20Guide%20Book%20Lesson%202.md)
