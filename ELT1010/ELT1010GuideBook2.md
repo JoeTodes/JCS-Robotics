@@ -26,7 +26,7 @@ Here is the schematic for the first circuit we will build:
 
 That new symbol on the right, labelled "**R1**", is a **resistor**. Resistors limit the speed of electrical current. More on them later, for now all you need to know is this is what they look like in your kit:
 
-![A 220Ω Resistor][r220]
+![A 220Ω Resistor](../images/r220.jpg)
 
 You have 5 different kinds of resistors in your kit, you can tell them apart by the colorful stripes. We'll go over how to read those stripes eventually, but right now just take my word for it that the one we need, 220Ω, matches the picture above: two **red** stripes and a **brown** stripe. (Careful not to confuse it with RED-RED-GREEN, which is 2.2 Million Ω!)
 
@@ -34,22 +34,20 @@ You have 5 different kinds of resistors in your kit, you can tell them apart by 
 
 Now, we could build this circuit just by holding the resistor and a battery in our hands, but once we have even slightly more complicated circuits, this would get out of hand (nice). Instead we will be using the tried and tested method of electrical engineers everywhere: the **solderless breadboard** 
 
-![A Solderless Breadboard][breadboard]
+![A Solderless Breadboard](../images/bb.jpg)
 
 > Fun Fact: Breadboards get their name from long ago, when literal 'bread boards' were used. People would hammer some nails into a wooden cutting board and wrap the ends of wires or the legs of components around the nails to connect them together. Even though the modern breadboard is a much more elegant solution, there are enough similarities to the original design that the name stuck.
 
 Breadboards provide a way to build electrical circuits in a rigid, but non-permanent way, so we can rearrange, redesign, experiment, and tinker to our hearts' content. Here's how they work:
-* In each hole there's a small pair of metal 'clips'. When we put a wire, pin, or leg of a component into the hole, it gets held in place quite snuggly
+* In each hole there's a metal 'clip'. When we put a wire, pin, or leg of a component into the hole, the clip holds it in place quite snuggly.
   
-![A Breadboard Clip][bbclip]
+![A Breadboard Clip](../images/bbclipsingle.png)
 
-*  The wire (or pin or component leg) is also making electrical contact with the clips, which is important because the clips are not in isolation, they are actually part of a strip of clips
+*  The wire (or pin or component leg) is also making electrical contact with the clips, which is important because the clips are not in isolation, they are actually part of a strip of clips.
 
-![A Strip of Breadboard clips][bbstrip]
+![A Strip of Breadboard clips](../images/bbclip.jpg)
 
 * This means that rows of holes are electrically connected together, two wires each plugged into clips on the same strip are electrically connected
-
-![Breadboard Connection vs Twisting Wires][bbcompare]
 
 * So we just need to know how these 'clip-strips' are arranged inside the breadboard. The breadboard in your kit is a standard configuration:
 
@@ -81,7 +79,7 @@ And finally, as stated above, **In Your Kit** you have an **MB102**, which can s
 
 We're *finally* ready to build this circuit, thanks for hanging in there. Let's start by plugging the power supply into the breadboard. Here's what it should look like:
 
-![MB102 Installation][psonbb]
+![MB102 Installation](../images/breadboards/psinstallation.png)
 
 Make sure all 8 pins ended up in a hole on the breadboard, and to make things easier for you, make sure the pins labelled with a "+" are in the **red** rail, and the "-" pins are in the **blue** rails. Then go ahead and connect the MB102 to one of your computer's USB ports.
 
@@ -93,7 +91,7 @@ It's been a while since we saw that schematic, so here it is again:
 
 So we just need to connect one leg of the resistor to the positive side of our power, and the other leg to negative, it doesn't matter which leg goes where, resistors work the same in both directions. Here's one way to accomplish this on the breadboard:
 
-![Simple Circuit on a Breadboard][simplebb]
+![Simple Circuit on a Breadboard](../images/breadboards/simplecircuitbb.png)
 
 You'll need to bend the ends of the legs 90°, and make sure they're pushed into the breadboard clips. With the circuit assembled, go ahead and turn on your power supply. If all went well, you should see...
 
@@ -109,11 +107,11 @@ We could do a lot of learning with that basic little circuit, but that's boring 
 
 You've probably figured out from the label what the new symbol in this schematic is: an LED, which stands for **Light Emitting Diode**. Diodes, in general, are electrical components that only allow current to flow through them in one direction, like a one-way street. LEDs are just a fancy version of a diode that happens to light up. This means that, unlike the resistor, it matters which legs of an LED you connect where. Your kit contains a few different colors, but all share the same basic shape:
 
-![An LED][ledpic]
+![An LED](../images/led.jpg)
 
 There are two ways to tell which leg is which. First, you'll notice that one leg is slightly longer than the other. This is the positive leg. The other way to tell is by looking closely at the bottom of the plastic cap of the LED. While it looks like a circle, one side is actually flat. The leg closest to this flat edge is the negative leg. LEDs only allow current to flow through them (and thus light up) from the positive leg to the negative. A backwards LED is the #1 most common mistake you will make in this course, luckily it's an easy fix. In the circuit we are building, you'll need to connect the positive leg to one of the resistor's legs, and the negative leg to the negative rail. Here's one way to build this circuit on the breadboard:
 
-![The Simple LED Circuit on a Breadboard][simpleledbb]
+![The Simple LED Circuit on a Breadboard](./../images/breadboards/ledcircuitbb.png)
 
 If you did everything correctly, your LED should illuminate when you power on your power supply (you turned it off before changing up your circuit right?). If not, check the following common issues:
 1. Is your power supply plugged into the computer? Does it's green LED light up when you turn on the power supply?
