@@ -27,33 +27,33 @@ See all those little particles packed together at the battery's negative termina
 
 ![But Why...](../images/memes/but-why.jpg)
 
-Well there's an important detail above about electrons, which is that they are *negatively* charged. What happens when a bunch of negative charges are brought together? You probably remember that like *repels* like, things with the same charge are forced away from each other. So a bunch of electrons all forced together on one terminal of a power supply are just itching to spread out and get away from each other, much like if you and your extended family were all forced together on a tour bus across the country.
+Well there's an important detail above about electrons, which is that they are **negatively** charged. What happens when a bunch of negative charges are brought together? You probably remember that like **repels** like, things with the same charge are forced away from each other. So a bunch of electrons all forced together on one terminal of a power supply are just itching to spread out and get away from each other, much like if you and your extended family were all forced together on a tour bus across the country.
 
 ![Family Road Trip](../images/memes/family-road-trip.png)
 
-Meanwhile, the positive terminal of the battery, with hardly any electrons, looks like a pretty appealing place for these claustrophobic particles to get to, so given the chance they will travel as fast as possible to get there. The concentration of electrons in a conductor is a form of **potential energy**. Just like something up high has the *potential* to start moving downwards when we let go (or the air in my bike tire has the *potential* to rapidly escape the tube when it pops right in the middle of my ride to work when I'm a 20 minute walk from any road that someone could come pick me up from...), The electrons have the *potential* to move somewhere with a lower concentration of electrons, if they are just provided a path.
+Meanwhile, the positive terminal of the battery, with hardly any electrons, looks like a pretty appealing place for these claustrophobic particles to get to, so given the chance they will travel **as fast as possible** to get there. The concentration of electrons in a conductor is a form of **potential energy**. Just like something up high has the **potential** to start moving downwards when we let go (or the air in my bike tire has the **potential** to rapidly escape the tube when it pops right in the middle of my ride to work when I'm a 20 minute walk from any road that someone could come pick me up from...), The electrons have the **potential** to move somewhere with a lower concentration of electrons, if they are just provided a path.
 
-The difference in the potential energy of electrons at two places, or *potential difference* (aahhh) is what we call **voltage** and is measured in **volts (V)**. So in our AA battery, which is a 1.5V battery, the negative end has 1.5 more volts of electrical potential energy than the positive end, and given a path (like say a wire connecting negative to positive), the electrons will flow as fast as they can from negative to positive. This *flow of electrons* is what we call **CURRENT**.
+The difference in the potential energy of electrons at two places, or **potential difference** (aahhh) is what we call **VOLTAGE** and is measured in **Volts (V)**. So in our AA battery, which is a 1.5V battery, the negative end has 1.5 more volts of *electrical potential energy* than the positive end, and given a path (like, say, a wire connecting negative to positive), the electrons will flow as fast as they can from negative to positive. This **flow of electrons** is what we call **CURRENT**.
 
 
 ![Electron Flow](../images/1x/Electron%20Flow.png)
 
 
-Here's where it is my solemn duty to thoroughly frustrate and confuse you. You see, back when folks were just starting to figure out this electricity business nobody knew about the electron, so early experimenters, including my guy Ben Franklin, assumed electricity was caused by the movement of *positive* particles. So diagrams were drawn with current flowing from the positive terminal to the negative terminal:
+Here's where it is my solemn duty to thoroughly frustrate and confuse you. You see, back when folks were just starting to figure out this electricity business nobody knew about the electron, so early experimenters, including my guy Ben Franklin, assumed electricity was **caused by the movement of positive particles**. So diagrams were drawn with current flowing from the positive terminal to the negative terminal:
 
 ![Conventional Current](../images/1x/Conventional%20Current.png)
 
-By the time scientists realized the truth, that they had the whole thing backwards, too many symbols and conventions had been developed under the positive charge assumption. Luckily it turns out not to matter which way we imagine it working, as long as we're all on the same page. So to this day we still draw diagrams and discuss electricity in the old-school, positive charge way AKA *conventional current*. 
+By the time scientists realized the truth, that they had the whole thing backwards, too many symbols and conventions had been developed under the positive charge assumption. Luckily it turns out **not to matter which way we imagine it working**, as long as we're all on the same page. So to this day we still draw diagrams and discuss electricity in the old-school, positive charge way AKA **conventional current**. 
 
 ![XKCD 'Urgent Mission'](https://imgs.xkcd.com/comics/urgent_mission.png)
 
-Now, it should be said that the above description of voltage is a gross oversimplification, but the deeper physics around the *why* of electricity are beyond the scope of this course. The important concepts for our purpose when it comes to voltage are:
-* Voltage is the *difference* between the energy at two points
+Now, it should be said that the above description of voltage is a gross oversimplification, but the deeper physics around the *why* of electricity are beyond the scope of this course. The important concepts for our purpose when it comes to **voltage** and **current** are:
+* Voltage is the **difference** between the energy at two points
 * We usually refer to the negative terminal of our power supply as **0V** or ground (**GND**)
 * Measuring or discussing voltage in a circuit always involves two different points in that circuit
-  * Asking "what is the voltage of this wire?" is similar to asking "what is the difference between a duck?"
-  * That said, unless otherwise specified, voltage is measured relative to 0V. So someone asking "what is the voltage of this wire" is likely asking "what is the voltage between this wire and the negative terminal of the power supply?"
-* If there is a voltage between two points and a path between those points, electrical **current** will flow from positive to negative (I know, I know, just go with it)
+  * Asking **"what is the voltage of this wire?"** is similar to asking **"what is the difference between a duck?"**
+  * That said, **unless otherwise specified, voltage is measured relative to 0V (GND)**. So someone asking **"what is the voltage of this wire"** is likely asking **"what is the voltage between this wire and the negative terminal of the power supply?"**
+* If there is a **voltage** between two points and a path between those points, electrical **current** will flow from positive to negative (I know, I know, just go with it) as fast as it can.
 
 ![Conventional Current Meme](../images/memes/conventionalcurrentmeme.jpg)
 
