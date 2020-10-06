@@ -12,21 +12,31 @@ layout: post
 5. Soldering
  
 # Topics 
-## Voltage, current, resistance, closed loop
-  * Simple series circuit (Schematic Symbols **Have a chart to fill out**))
-  * Breadboard + power supply
-    * What/Why breadboard?
-    * Disassemble
+## Electricity 101
+* electrons
+* voltage
+* electron flow vs conventional current
+  
+
+## First Circuit
+  * Simple series circuit
+  * Schematic diagrams
+    * Battery symbol
+    * conductor lines
+  * Resistor (Symbol)
+  * Breadboard
+    * How they work
+  * Power Supply (MB102) - Fill in Power Supply row in Components Worksheet
   * Construct simple circuit
   * Add LED
   
 ## Ohm's Law
   
-  * Measure V and I
-    * Define V and how to measure
-    * Define I and how to measure
+  * Measure Vr and I
+    * How to multimeter
   * Increase resistance
-  * Measure V and I
+  * Notice LED is dimmer, so less current
+  * Measure Vr and I to verify
   * Ohm's Law
 
 ## Kirchoff's Voltage Law

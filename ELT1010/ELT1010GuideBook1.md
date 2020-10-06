@@ -2,9 +2,6 @@
 title: ELT 1010 Guide Book Lesson 1
 layout: post
 ---
-
-# ELT 1010 Guide Book Lesson 1
-
 ## Preamble
 By this point in your education you've probably learned somethings about electricity. Terms like voltage, current, and circuit are probably familiar, though you may not quite remember exactly what they mean. The mechanics of electricity can be hard to conceptualize, these invisible forces and interactions are happening at such a small scale and extremely fast. I'll do my best here to explain the arcana of electricity, but there is a very good chance that my explanations won't quite *mesh* with the way your brain works. My hope is that by following along with the exercises that follow: reading schematics, building and analyzing circuits, and exploring the mechanics of electricity through experimentation, things become more clear. Reading explanations or listening to lectures can only take you so far; the *real* learning is in the **making**.
 
@@ -62,4 +59,4 @@ Now, it should be said that the above description of voltage is a gross oversimp
 
 Ok that's enough theory for now, in the next lesson we'll be breaking into your electronics kit and eventually building some circuits, so make sure you've got that handy, along with your **Electronics Components Worksheet**.
 
-[NEXT LESSON](./ELT1010GuideBook1.md)
+[NEXT LESSON](./ELT1010GuideBook2.md)

@@ -115,7 +115,17 @@ There are two ways to tell which leg is which. First, you'll notice that one leg
 
 ![The Simple LED Circuit on a Breadboard][simpleledbb]
 
-If 
+If you did everything correctly, your LED should illuminate when you power on your power supply (you turned it off before changing up your circuit right?). If not, check the following common issues:
+1. Is your power supply plugged into the computer? Does it's green LED light up when you turn on the power supply?
+2. Is your power supply installed in your breadboard correctly? See the image above for reference.
+3. Is the LED backwards? The long leg should be connected to the resistor, the short leg (nearest the flat side) should be connected to 0V via the (-) rail.
+4. Are the positive leg of the LED and one leg of the resistor both in the same **row** on the breadboard?
+5. Is the other leg of the resistor connected to 5V via the (+) rail?
+
+If you've double checked all of these possible issues and it still isn't working, **then** you may ask for help. Get used to troubleshooting on your own, most of the time when I build circuits I still make silly mistakes, that's just part of the game. Tracking down errors and figuring out how to fix them is a necessary skill in this field (and life, really). There's no shame in asking for help, but make sure you give it your best effort to figure it out on your own first. It is in these moments that the most valuable learning occurs.
+
+## Next Steps
+In the next lesson, we're going to examine this LED circuit in a bit more depth, learn how to measure **voltage** and **current**, and discover some fundamental relationships between them.
 
 
 
