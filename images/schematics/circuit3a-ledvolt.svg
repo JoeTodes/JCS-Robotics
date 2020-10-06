@@ -1,9 +1,9 @@
 
 <svg xmlns="http://www.w3.org/2000/svg"
-     xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="294"
-     height="212">
+     xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="389"
+     height="211">
     <defs/>
-    <g transform=" scale(1) translate(-345.5,-244.99999999999997)">
+    <g transform=" scale(1) translate(-345.5,-245)">
         <rect x="409" y="319" width="2" height="2" fill="#000000" stroke="none"
               pointer-events="none"/>
         <rect x="409" y="389" width="2" height="2" fill="#000000" stroke="none"
@@ -134,13 +134,42 @@
                 LED
             </text>
         </g>
-        <path d="M 580 340 L 580 370" fill="none" stroke="#000000"
-              stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
-        <path d="M 580 430 L 580 450 L 410 450 L 410 390" fill="none"
-              stroke="#000000" stroke-width="2" stroke-miterlimit="10"
-              pointer-events="none"/>
         <path d="M 410 320 L 410 250 L 580 250 L 580 280" fill="none"
               stroke="#000000" stroke-width="2" stroke-miterlimit="10"
               pointer-events="none"/>
+        <path d="M 580 340 L 580 368" fill="none" stroke="#000000"
+              stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <ellipse cx="580" cy="370" rx="2" ry="2" fill="#000000" stroke="#000000"
+                 stroke-width="2" pointer-events="none"/>
+        <path d="M 580 430 L 580 450 L 410 450 L 410 390" fill="none"
+              stroke="#000000" stroke-width="2" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <rect x="709" y="289" width="2" height="2" fill="#000000" stroke="none"
+              pointer-events="none"/>
+        <rect x="709" y="349" width="2" height="2" fill="#000000" stroke="none"
+              pointer-events="none"/>
+        <ellipse cx="710" cy="319.8" rx="18.99984629" ry="18.99984629"
+                 fill="#ffffff" stroke="#000000" stroke-width="2"
+                 pointer-events="none"/>
+        <path d="M 710 291 L 710 300" fill="none" stroke="#000000"
+              stroke-width="2" stroke-linecap="square" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 710 340 L 710 349" fill="none" stroke="#000000"
+              stroke-width="2" stroke-linecap="square" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <g fill="#000000" font-family="Arial,Helvetica" text-anchor="middle"
+           font-size="24px">
+            <text x="710" y="326">
+                V
+            </text>
+        </g>
+        <path d="M 710 290 L 710 270 L 582 270" fill="none" stroke="#000000"
+              stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <ellipse cx="580" cy="270" rx="2" ry="2" fill="#000000" stroke="#000000"
+                 stroke-width="2" pointer-events="none"/>
+        <path d="M 710 350 L 710 370 L 582 370" fill="none" stroke="#000000"
+              stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <ellipse cx="580" cy="370" rx="2" ry="2" fill="#000000" stroke="#000000"
+                 stroke-width="2" pointer-events="none"/>
     </g>
 </svg>

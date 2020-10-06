@@ -18,6 +18,10 @@ layout: post
     * What/Why breadboard?
     * Disassemble
   * Construct simple circuit
+  * Add LED
+  
+## Ohm's Law
+  
   * Measure V and I
     * Define V and how to measure
     * Define I and how to measure
@@ -74,6 +78,7 @@ layout: post
   * only lets current flow from Collector to Emitter if Base is higher voltage than Emitter
   * Need resistor into Base to limit current
   * Potentiometer Controlled Transistor Circuit
+  * What at what Veb does the 2222 'activate'?
 
 ## Soldering
   * How to and what is good
