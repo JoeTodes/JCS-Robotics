@@ -32,23 +32,28 @@ layout: post
   
 ## Ohm's Law
   
-  * Measure Vr and I
+  * Measure Vr and Vled
     * How to multimeter
+    * Notice KVL
+  * Measure I
+    * How to
+    * LED Max current
+    * Current limiting resistor
   * Increase resistance
-  * Notice LED is dimmer, so less current
+    * Notice LED is dimmer, so less current
   * Measure Vr and I to verify
+    * Vr stayed the same, because of LED Forward Voltage
   * Ohm's Law
+  * How much current would we get if R1 was 10k?
 
-## Kirchoff's Voltage Law
+## More Kirchoff's Voltage Law
   * Series resistors (equal)
   * Measure I, calculate total Ohms
-  * Measure V across each resistor
-  * Kirchoff's Voltage Law
+    * Resistors in series "look" like one resistor with sum of their ohms
+  * Measure Vr1 and Vr2
+    * Kirchoff's Voltage Law
   * Increase 1 resistor, remeasure V drops
-  * Replace a resistor with an LED (LED polarity & symbol)
-  * Measure V drops, calculate I based on R1 and V1
-  * Increase resistor, redo (LED Forward Voltage)
-  * LED Max I, current limiting resistor
+  
 
 ## Kirchoff's Current Law
   * Parallel resistors and LEDs (equal)
