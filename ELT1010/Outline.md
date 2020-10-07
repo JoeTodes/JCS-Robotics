@@ -111,28 +111,10 @@ layout: post
     * Assembly/Fastening (M2, M2.6, or M3 bolts w/ hex nut)
     * Drawing Sheets for Approval
   * Solder digital logic probe circuit on protoboard
-
-
-# Circuits to Diagram
-  1. Simple series circuit (power supply and resistor)
-  2. Resistors in Series (equal Ohms)  
-     * plus variant with different Ohms
-  3. Simple LED circuit
-     * plus variant with increased resistor
-  4. Resistors and LEDs in Parallel (equal)
-      * plus variant with one increased (large change)  
-  5. Potentiometer LED Dimmer
-  6. Simple LED circuit with switch
-  7. Parallel LED circuit with switch
-      * switch before branch
-      * switch on one branch
-  8. Potentiometer Controlled Transistor Circuit
-  9. LED Fade-Out Circuit (capacitor)
-  10. Digital Logic Probe Circuit   
-
+ 
 # Evidence of Learning
 * Completed Safety Plan (O1)
 * Component ID Chart (O2)
-* Breadboarded Circuits 8, 9, and 10 (O3)
-* Completed Ohm's Law / Multimeter Workbook (O4)
+* Breadboarded Circuit (pics or it didn't happen) (O3)
+* Completed Circuits Workbook (O4)
 * Soldered Logic Probe (O5)
