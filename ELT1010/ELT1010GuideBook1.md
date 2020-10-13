@@ -33,7 +33,7 @@ Well there's an important detail above about electrons, which is that they are *
 
 Meanwhile, the positive terminal of the battery, with hardly any electrons, looks like a pretty appealing place for these claustrophobic particles to get to, so given the chance they will travel **as fast as possible** to get there. The concentration of electrons in a conductor is a form of **potential energy**. Just like something up high has the **potential** to start moving downwards when we let go (or the air in my bike tire has the **potential** to rapidly escape the tube when it pops right in the middle of my ride to work when I'm a 20 minute walk from any road that someone could come pick me up from...), The electrons have the **potential** to move somewhere with a lower concentration of electrons, if they are just provided a path.
 
-The difference in the potential energy of electrons at two places, or **potential difference** (aahhh) is what we call **VOLTAGE** and is measured in **Volts (V)**. So in our AA battery, which is a 1.5V battery, the negative end has 1.5 more volts of *electrical potential energy* than the positive end, and given a path (like, say, a wire connecting negative to positive), the electrons will flow as fast as they can from negative to positive. This **flow of electrons** is what we call **CURRENT**.
+The difference in the potential energy of electrons at two places, or **potential difference** (aahhh) is what we call **VOLTAGE** and is measured in **Volts (V)**. So in our AA battery, which is a 1.5V battery, the negative end has 1.5 more volts of *electrical potential energy* than the positive end, and given a path (like, say, a wire connecting negative to positive), the electrons will flow as fast as they can from negative to positive. This **flow of electrons** is what we call **CURRENT**. **Current** is measured in **Amperes** or **Amps**; 1 **Amp** is the equivalent of about **6250000000000000000 electrons** moving past a point every second, which is a lot but don't worry, we typically work with less than 0.1A, so not even **625000000000000000 electrons**.
 
 
 ![Electron Flow](../images/1x/Electron%20Flow.png)
@@ -47,7 +47,7 @@ By the time scientists realized the truth, that they had the whole thing backwar
 
 ![XKCD 'Urgent Mission'](https://imgs.xkcd.com/comics/urgent_mission.png)
 
-Now, it should be said that the above description of voltage is a gross oversimplification, but the deeper physics around the *why* of electricity are beyond the scope of this course. The important concepts for our purpose when it comes to **voltage** and **current** are:
+Now, it should be said that the above description of voltage is a gross oversimplification, but the deeper physics around the *why* of electricity are beyond the scope of this course. This is also only half the story, what we call **direct current** or **DC** voltage. **Alternating current** or **AC** voltage is another whole can of worms which is beyond the scope of this course. The important concepts for our purpose when it comes to **voltage** and **current** are:
 * Voltage is the **difference** between the energy at two points
 * We usually refer to the negative terminal of our power supply as **0V** or ground (**GND**)
 * Measuring or discussing voltage in a circuit always involves two different points in that circuit

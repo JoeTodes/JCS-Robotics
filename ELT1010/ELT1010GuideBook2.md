@@ -109,6 +109,8 @@ You've probably figured out from the label what the new symbol in this schematic
 
 ![An LED](../images/led.jpg)
 
+**For this example and into the next lesson, please use a RED LED**
+
 There are two ways to tell which leg is which. First, you'll notice that **one leg is slightly longer than the other**. This is the positive leg. The other way to tell is by looking closely at the bottom of the plastic cap of the LED. While it looks like a circle, **one side is actually flat**. The leg closest to this flat edge is the negative leg. **LEDs** only allow current to flow through them (and thus light up) from the positive leg to the negative. A backwards LED is the **#1 most common mistake you will make in this course**, luckily it's an easy fix. In the circuit we are building, you'll need to connect the **positive** leg to one of the **resistor's** legs, and the **negative** leg to the **negative rail**. Here's one way to build this circuit on the breadboard:
 
 ![The Simple LED Circuit on a Breadboard](./../images/breadboards/ledcircuitbb.png)

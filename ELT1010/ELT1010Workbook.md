@@ -18,6 +18,15 @@
 
 ## Lesson 3
 
+![](../images/schematics/circuit3c-ledvolttot.svg)
+
+<table>
+<tr>
+    <th>V<sub>tot</sub></th>
+    <th></th>
+</tr>
+</table>
+
 ![](../images/schematics/circuit3a-ledvolt.svg)
 
 <table>
@@ -32,15 +41,6 @@
 <table>
 <tr>
     <th>V<sub>LED</sub></th>
-    <th></th>
-</tr>
-</table>
-
-![](../images/schematics/circuit3c-ledvolttot.svg)
-
-<table>
-<tr>
-    <th>V<sub>tot</sub></th>
     <th></th>
 </tr>
 </table>
