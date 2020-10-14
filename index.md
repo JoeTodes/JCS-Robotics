@@ -6,6 +6,7 @@
 - [Guide Book Lesson 2](./ELT1010/ELT1010GuideBook2.md)
 - [Electronics Components Worksheet](./extras/ElectronicsComponentsWorksheet.pdf)
 - [Circuits Workbook](./extras/ELT1010Workbook.pdf)
+- [Datasheets](./extras/datasheets.md)
 
 ## NET 1010
 - [NET 1010](./NET1010/Outline.md)
