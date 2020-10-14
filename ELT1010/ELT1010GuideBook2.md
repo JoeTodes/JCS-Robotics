@@ -127,7 +127,7 @@ If you've double checked all of these possible issues and it still isn't working
 ## Next Steps
 In the next lesson, we're going to examine this LED circuit in a bit more depth, learn how to measure **voltage** and **current**, and discover some fundamental relationships between them.
 
-
+[PREVIOUS LESSON](./ELT1010GuideBook1.md) -- [NEXT LESSON](./ELT1010GuideBook3.md)
 
 
 [shortcircuit]: ../images/schematics/circuit0b.svg

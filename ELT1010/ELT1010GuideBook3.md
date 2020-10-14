@@ -24,9 +24,9 @@ A good first step would be to verify that our supply voltage is in fact **5V**. 
 
 ![Measuring Supply Voltage](../images/schematics/circuit3c-ledvolttot.svg)
 
-That **(V)** symbol of course represents our multimeter (in **voltmeter** mode). There are some options when it comes to how to actually connect the probes to the rails but the easiest way makes use of any exposed conductors that are already connected to the rails. In our case, he leg of **R1** that is connected to the (+) rail is an easy place contact with one probe, and likewise with the leg of the **LED** going into (-). Make sure the circuit is turned on (your LED should be lit), and measure the **supply voltage** (also known as V<sub>ss</sub> or V<sub>tot</sub>). **Record the result in your Workbook**
+That **(V)** symbol of course represents our multimeter (in **voltmeter** mode). There are some options when it comes to how to actually connect the probes to the rails but the easiest way makes use of any exposed conductors that are already connected to the rails. In our case, he leg of **R1** that is connected to the (+) rail is an easy place contact with one probe, and likewise with the leg of the **LED** going into (-). Make sure the circuit is turned on (your LED should be lit), and measure the **supply voltage** (also known as V<sub>SS</sub> or V<sub>tot</sub>). **Record the result in your Workbook**
 
-
+![Measuring V<sub>tot</sub>](../images/multimeterVtot.jpg)
 
 You should see a value *close* to 5V, though likely not exactly. This is something to get used to in the world of electronics: while we talk about electronics in **ideal** terms with nice round numbers, the reality is a lot messier. So any **supply voltage** between 4.9V and 5.1V is perfectly normal. Whenever asked to record a measurement, write down the actual measured value. We'll often compare it to a calculated value, just remember that **close is good enough**.
 
@@ -38,9 +38,13 @@ Now for some more practice, **measure and record V<sub>R1</sub>**, the voltage *
 
 ![Measuring V<sub>R1</sub>](../images/schematics/circuit3a-ledvolt.svg)
 
+![Measuring V<sub>R1</sub> IRL](../images/multimeterVr.jpg)
+
 And **V<sub>LED</sub>**, the voltage *across* the LED:
 
-![Measuring V<sub>R1</sub>](../images/schematics/circuit3b-ledvolt2.svg)
+![Measuring V<sub>LED</sub>](../images/schematics/circuit3b-ledvolt2.svg)
+
+![Measuring V<sub>LED</sub> IRL](../images/multimeterVLED.jpg)
 
 You probably found V<sub>R1</sub> to be something in the range of about **3V**, and V<sub>LED</sub> to be close to **2V**. We call these the **voltage drops** over these components, you can think of the **resistor** and **LED** as *"using up* the voltage provided by the **power supply**. Notice that V<sub>R1</sub> and V<sub>LED</sub> add up to our V<sub>tot</sub> of 5V? We'll discuss that phenomenon more deeply in a later lesson, for now let's look at measuring **current**.
 
@@ -132,5 +136,10 @@ You might also have noticed that the LED is slightly dimmer, this is because the
 So the smallest **current limiting resistor** we could use for our LEDs would be 150Ω, but 220Ω is pretty close so we'll use those as our standard **current limiting resistor** for the rest of the course.
 
 As a final exercise, can you calculate what the current in this circuit would be if R1 was 10kΩ ("k" stands for "kilo" meaning thousand, so 10kΩ=10000Ω) and can you predict what would happen to the LED?
+
+## fin
+Whew, that was a big one, good work getting through it. We've got two more *heavy* topics to get through to understand a bit more how resistors work in **series** and **parallel**, and then things will start to speed up and involve way less talking, and a lot more doing.
+
+
 
 

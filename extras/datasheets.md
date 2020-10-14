@@ -3,6 +3,9 @@ title: Datasheets
 layout: post
 ---
 
+## Power Supply
+- [MB102 Breadboard Power Supply](https://components101.com/sites/default/files/component_datasheet/MB102-Datasheet.pdf)
+
 ## LEDs
 ### 5mm
 - [Red](./datasheets/2.Red(Diffused)5mm%20.pdf)
