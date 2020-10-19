@@ -67,7 +67,7 @@ First, as a follow up to our discussion on **equivalent resistance**, let's work
 > 
 > R<sub>tot</sub> = 690Ω
 
-**Record this in your workbook**. Using this result along with our known V<sub>SS<sub> of **5V**, we can rearrange **Ohm's Law** to solve for **I**:
+**Record this in your workbook**. Using this result along with our known V<sub>SS</sub> of **5V**, we can rearrange **Ohm's Law** to solve for **I**:
 
 > I = V / R
 > 
