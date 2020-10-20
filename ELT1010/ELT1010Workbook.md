@@ -140,11 +140,11 @@ What current would we expect if R1 was 10kΩ?
 </table>
 <table>
 <tr>
-    <th>V<sub>R1</sub> (meas.)</th>
+    <th>V<sub>R2</sub> (meas.)</th>
     <th></th>
-    <th>I<sub>1</sub> (calc.)</th>
+    <th>I<sub>2</sub> (calc.)</th>
     <th></th>
-    <th>I<sub>1</sub> (meas.)</th>
+    <th>I<sub>2</sub> (meas.)</th>
     <th></th>   
 </tr>
 </table>
@@ -172,11 +172,11 @@ What is the relationship between I<sub>1</sub>, I<sub>2</sub>, and I<sub>tot</su
 </table>
 <table>
 <tr>
-    <th>V<sub>R1</sub> (meas.)</th>
+    <th>V<sub>R2</sub> (meas.)</th>
     <th></th>
-    <th>I<sub>1</sub> (calc.)</th>
+    <th>I<sub>2</sub> (calc.)</th>
     <th></th>
-    <th>I<sub>1</sub> (meas.)</th>
+    <th>I<sub>2</sub> (meas.)</th>
     <th></th>
       
 </tr>
