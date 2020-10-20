@@ -140,6 +140,6 @@ As a final exercise, can you calculate what the current in this circuit would be
 ## fin
 Whew, that was a big one, good work getting through it. We've got two more *heavy* topics to get through to understand a bit more how resistors work in **series** and **parallel**, and then things will start to speed up and involve way less talking, and a lot more doing.
 
-
+[PREVIOUS LESSON](./ELT1010GuideBook2.md) -- [NEXT LESSON](./ELT1010GuideBook4.md)
 
 

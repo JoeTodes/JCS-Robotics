@@ -95,3 +95,4 @@ Looking even closer, you might notice that V<sub>R2</sub> is **almost exactly do
 
 This is some heavy stuff to ponder, so we'll leave it at that for today. Next time we look at **parallel circuits** and the interesting way they *mirror* and *invert* many of the concepts we've studied so far.
   
+[PREVIOUS LESSON](./ELT1010GuideBook3.md) -- [NEXT LESSON](./ELT1010GuideBook5.md)
