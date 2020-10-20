@@ -66,7 +66,7 @@ You should find that the total **current** that this circuit *pulls* from the po
 
 It shouldn't be hard to see that the **total current** is simply the **sum** of the **current in each branch**. This phenomenom is known as **Kirchoff's Current Law** (busy guy) which states: 
 
-> "he sum of all currents flowing into a node **equals** the sum of all currents flowing out of the node"
+> The sum of all currents flowing into a node **equals** the sum of all currents flowing out of the node
 
 **Node** here is just a fancy word for junction, split, or fork in the road. It follows then from **Kirchoff's Current Law** that the current flowing back into the power supply, after the two branches have joined up again, should also be about **28mA**. You can test that for yourself if you like.
 
@@ -76,9 +76,9 @@ Just like last time, our first example involved identical components, so once ag
 
 ![Parallel LED Circuit with Different Resistors](../images/schematics/circuit4c-paralleldifferent.svg)
 
-This time we are using the **10kΩ** (10000Ω) resistor, which has the **BROWN-BLACK-ORANGE** color code.
+Again we are using the **470Ω** resistor, which has the **YELLOW-PURLPE_BROWN** color code.
 
-You should notice right away a large difference in the brightness of the two **LEDs**. As we discussed in [Lesson 3](./ELT1010GuideBook3.md), bigger resistors mean less current, which means dimmer LED.
+If you have very keen eyes, you might notice a slight difference in the brightness of the two **LEDs**. As we discussed in [Lesson 3](./ELT1010GuideBook3.md), bigger resistors mean less current, which means dimmer LED.
 
 **Perform all of the same measurements and calculations as we did earlier and record your findings**. In addition, see if you can predict **I<sub>tot</sub>** in this circuit once you know the current in each branch.
 
