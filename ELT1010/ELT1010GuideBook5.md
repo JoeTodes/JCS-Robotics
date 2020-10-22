@@ -84,4 +84,4 @@ If you have very keen eyes, you might notice a slight difference in the brightne
 
 Draw your own conclusions from your results for now, this will be updated shortly with the thrilling conclusion of this lesson.
 
-[PREVIOUS LESSON](./ELT1010GuideBook4.md)
+[PREVIOUS LESSON](./ELT1010GuideBook4.md) -- [NEXT LESSON](./ELT1010GuideBook6.md)

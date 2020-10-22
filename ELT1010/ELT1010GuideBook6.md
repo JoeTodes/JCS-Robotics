@@ -81,3 +81,4 @@ With this knowledge, you should be able to make this circuit using a tac switch 
 
 This kind of **tac-switche** is called **Off - Momentary ON**, which just means the connection they form when you push the button only stays connected as long as you are holding the button down.
 
+[PREVIOUS LESSON](./ELT1010GuideBook5.md) -- [NEXT LESSON](./ELT1010GuideBook7.md)
