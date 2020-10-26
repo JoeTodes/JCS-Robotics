@@ -32,7 +32,7 @@ To find out what voltage is needed between the **emitter** and **base** to activ
 
 What we have here is our standard LED setup with a **220Ω** resistor, but rather than going straight to **0v**, the LED instead connects to the **collector** of the transistor, which then has its **emitter** connected to **0V**. From what we discussed above, the LED will only turn on if the **transistor** is activated. 
 
-The **base** of the **transistor** is connected to **pin 2** of a potentiometer, with **pins 1 and 3** of the pot connected to **5V** and **0V**. Used in this way, the potentiometer lets us set **pin 2** to any voltage between **0V** and **5V**, thus controlling the voltage between the **emitter** and the **base** of the transistor. The **10kΩ** resisitor (BROWN-BLACK-RED) simply limits the flow of current into the **base**. Transistors are quite sensitive, too much current in the **base** will cause them to break.
+The **base** of the **transistor** is connected to **pin 2** of a potentiometer, with **pins 1 and 3** of the pot connected to **5V** and **0V**. Used in this way, the potentiometer lets us set **pin 2** to any voltage between **0V** and **5V**, thus controlling the voltage between the **emitter** and the **base** of the transistor. The **10kΩ** resisitor (BROWN-BLACK-ORANGE) simply limits the flow of current into the **base**. Transistors are quite sensitive, too much current in the **base** will cause them to break.
 
 ![Transistor Comic](../images/memes/transistor.gif)
 
