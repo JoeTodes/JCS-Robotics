@@ -9,6 +9,7 @@
 - [Guide Book Lesson 5](./ELT1010/ELT1010GuideBook5.md)
 - [Guide Book Lesson 6](./ELT1010/ELT1010GuideBook6.md)
 - [Guide Book Lesson 7](./ELT1010/ELT1010GuideBook7.md)
+- [Guide Book Lesson 8](./ELT1010/ELT1010GuideBook8.md)
 - [Electronics Components Worksheet](./extras/ElectronicsComponentsWorksheet.pdf)
 - [Circuits Workbook](./extras/ELT1010Workbook.pdf)
 - [Datasheets](./extras/datasheets.md)

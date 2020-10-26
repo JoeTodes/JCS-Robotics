@@ -66,4 +66,4 @@ That's an overly simplified explanation, there's a lot more that goes into desig
 One last component to go in this unit: the building block of all computers, **transistors**. Stay tuned..
 
 
-[PREVIOUS LESSON](./ELT1010GuideBook6.md)
+[PREVIOUS LESSON](./ELT1010GuideBook6.md) -- [NEXT LESSON](./ELT1010GuideBook8.md)
