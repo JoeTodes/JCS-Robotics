@@ -12,6 +12,7 @@
 - [Guide Book Lesson 8](./ELT1010/ELT1010GuideBook8.md)
 - [Electronics Components Worksheet](./extras/ElectronicsComponentsWorksheet.pdf)
 - [Circuits Workbook](./extras/ELT1010Workbook.pdf)
+- [ELT 1010 Project](./ELT1010/ELT1010Project.md)
 - [Datasheets](./extras/datasheets.md)
 
 ## NET 1010
