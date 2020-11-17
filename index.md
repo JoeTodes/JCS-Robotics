@@ -1,4 +1,4 @@
-# Course Listing
+# Modules
 
 ## ELT 1010
 - [Outline](./ELT1010/Outline.md)
