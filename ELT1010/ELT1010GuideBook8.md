@@ -42,4 +42,7 @@ With the LED **off**, **measure V<sub>eb</sub>**. Then turn the knob until the L
 
 You should have found that once you pass the point where the LED starts turning on, **V<sub>eb</sub>** stays fixed at around **0.7V**. This is very similar to the behaviour we've seen in LEDs and again here we call it the **forward voltage** of the transistor. This is the amount of voltage needed at the **base** to *activate* the transistor and let current from the **collector** to the **emitter**.
 
-[PREVIOUS LESSON](./ELT1010GuideBook7.md)
+## So What?
+We'll see a simple application in the project coming up, but for now you'll have to trust me that transistors are **hugely** important in the world of digital systems. We'll see more complex uses in the next unit, **NET 1010: Digital Logic Systems**, but for now just remember, **it's just a switch**.
+
+[PREVIOUS LESSON](./ELT1010GuideBook7.md) -- [PROJECT OUTLINE](./ELT1010Project.md)

@@ -97,24 +97,26 @@ layout: post
 
 ## Soldering
   * How to and what is good
-  * Practice on soldering kits
+  * Practice on scrap
 
-## Digital Logic Probe Project
-  * What is a DLP?
-  * Digital Logic Probe Circuit and explanation
+## Flashing LEDs Project
+  * Flashing LED Starter Circuit and explanation
   * Breadboard and test
+  * Change V<sub>ss</sub> to 3V, test and modify capacitors and/or resistors as needed
+  * Add a master on/off switch
   * Design enclosure in CAD to 3D Print
     * Protoboard Mounting
-    * Nail end
-    * LED mounts
+    * LED Holes
+    * Switch Hole
     * 5V and GND wires
-    * Assembly/Fastening (M2, M2.6, or M3 bolts w/ hex nut)
+    * Assembly/Fastening (Friction Fit, Snap/Locking, M2, M2.6, or M3 machine screws)
     * Drawing Sheets for Approval
-  * Solder digital logic probe circuit on protoboard
+  * Solder circuit on protoboard
+  * Final Assembly
  
 # Evidence of Learning
 * Completed Safety Plan (O1)
 * Component ID Chart (O2)
 * Breadboarded Circuit (pics or it didn't happen) (O3)
 * Completed Circuits Workbook (O4)
-* Soldered Logic Probe (O5)
+* Soldered Project (O5)

@@ -81,4 +81,6 @@ With this knowledge, you should be able to make this circuit using a tac switch 
 
 This kind of **tac-switche** is called **Off - Momentary ON**, which just means the connection they form when you push the button only stays connected as long as you are holding the button down.
 
+The world of switches is vast and full of technical terms, definitions, special applications, specific schematic symbols, and a wide array of aethetic choices. Just try to comprehend the amount of [different switches our supplier **DigiKey** stocks](https://www.digikey.ca/en/products/category/switches/15). But at the end of the day, they all boil down to the simple function of breaking and connecting one or more wires. 
+
 [PREVIOUS LESSON](./ELT1010GuideBook5.md) -- [NEXT LESSON](./ELT1010GuideBook7.md)

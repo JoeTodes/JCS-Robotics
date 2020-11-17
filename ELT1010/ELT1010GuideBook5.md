@@ -80,8 +80,12 @@ Again we are using the **470Ω** resistor, which has the **YELLOW-PURLPE_BROWN**
 
 If you have very keen eyes, you might notice a slight difference in the brightness of the two **LEDs**. As we discussed in [Lesson 3](./ELT1010GuideBook3.md), bigger resistors mean less current, which means dimmer LED.
 
-**Perform all of the same measurements and calculations as we did earlier and record your findings**. In addition, see if you can predict **I<sub>tot</sub>** in this circuit once you know the current in each branch.
+**Perform all of the same measurements and calculations as we did earlier and record your findings**. In addition, see if you can predict **I<sub>tot</sub>** in this circuit once you know the current in each branch using **Kirchoff's Current Law**.
 
-Draw your own conclusions from your results for now, this will be updated shortly with the thrilling conclusion of this lesson.
+Things to notice here:
+   
+   1. **I<sub>2</sub>** should be around **6 or 7mA**. This should make sense, there's a bigger resistor which means less current.
+   2. **I<sub>1</sub>**, meanwhile, stayed the same (**14mA**). Changing the other branch doesn't affect this branch. Remember, all that matters for current is a) how much energy the electrons have to lose (**V**) and b) how difficult the path is (**R**). Changing the resistor in the other branch doesn't change the fact that **electrons going through the first branch still have to lose 5V while going through the same resistor and LED combo**. 
+   3. Once again the total current (**I<sub>tot</sub>**) should be **I<sub>1</sub> + I<sub>2</sub>**. This time this is something close to **20mA (14mA + 6mA)**.
 
 [PREVIOUS LESSON](./ELT1010GuideBook4.md) -- [NEXT LESSON](./ELT1010GuideBook6.md)
