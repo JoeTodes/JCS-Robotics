@@ -16,5 +16,7 @@
 - [Datasheets](./extras/datasheets.md)
 
 ## NET 1010
-- [NET 1010](./NET1010/Outline.md)
+- [Outline](./NET1010/Outline.md)
+- [Lesson 1](./NET1010/NET1010Lesson1.md)
+- [Digital Logic Workbook](./extras/LogicGatesICsWorkbook.pdf)
 

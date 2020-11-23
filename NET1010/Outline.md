@@ -10,15 +10,6 @@ layout: post
 4. Identify Pinouts and Use Various ICs
 
 ## Topics
-### Binary Number System
-* why do we use base 10?
-* place value - powers of 10
-* how adding works - reset to 0 and carry-over
-* Binary - same thing, just base 2
-  * only 2 possible numerals
-  * place values - powers of 2 (1,2,4,8,16,32,64...)
-  * adding (and all other math) still works in the same way
-
 ### Logic Gates
 * electrical circuit with inputs and an output
 * the state of the output depends on the states of the inputs
@@ -41,6 +32,17 @@ layout: post
   * OR Circuit
 * NAND, NOR, XOR, XNOR
   * Description and truth tables
+
+
+### Binary Number System
+* why do we use base 10?
+* place value - powers of 10
+* how adding works - reset to 0 and carry-over
+* Binary - same thing, just base 2
+  * only 2 possible numerals
+  * place values - powers of 2 (1,2,4,8,16,32,64...)
+  * adding (and all other math) still works in the same way
+
 
 ### ICs
   * By combining logic gates in interesting ways, you can achieve complex systems, from the examples we're about to make, all the way up to the Central Processing Unit (CPU) in your computers and phones
