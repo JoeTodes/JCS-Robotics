@@ -3,6 +3,15 @@ title: Datasheets
 layout: post
 ---
 
+## ICs
+- [74HC00 Quad NAND](datasheets/7400quadNAND.pdf)
+- [555](datasheets/555.pdf)
+- [4017 Decade Counter](datasheets/4017bDecadeCounter.pdf)
+- [4019 Up/Down BCD Counter](datasheets/4019UpDownBCD.pdf)
+- [4511 BCD to 7-Segment Driver](datasheets/4511bBCD7Seg.pdf)
+
+- [7-Segment Display](datasheets/7-seg.pdf)
+
 ## Power Supply
 - [MB102 Breadboard Power Supply](https://components101.com/sites/default/files/component_datasheet/MB102-Datasheet.pdf)
 
