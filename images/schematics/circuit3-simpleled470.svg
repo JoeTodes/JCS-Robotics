@@ -91,7 +91,7 @@
         <g fill="#000000" font-family="Arial,Helvetica" font-weight="bold"
            text-anchor="middle" font-size="16px">
             <text x="615.5" y="333.5">
-                470Ω
+                1kΩ
             </text>
         </g>
         <rect x="559" y="369" width="2" height="2" fill="#000000" stroke="none"

@@ -215,7 +215,7 @@
         <g fill="#000000" font-family="Arial,Helvetica" font-weight="bold"
            text-anchor="middle" font-size="18px">
             <text x="795.5" y="394.5">
-                470Ω
+                1kΩ
             </text>
         </g>
         <rect x="780" y="360" width="17" height="13" fill-opacity="0"
